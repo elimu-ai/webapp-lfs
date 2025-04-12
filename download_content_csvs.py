@@ -73,13 +73,13 @@ for language in languages:
     print(f'emojis_file_path: {emojis_file_path}')
     emojis_dataframe.to_csv(emojis_file_path, index=False)
 
-    images_csv_url = f'http://{language.lower()}.elimu.ai/content/image/list/images.csv'
-    print(f'images_csv_url: {images_csv_url}')
-    images_dataframe = pandas.read_csv(images_csv_url)
-    print(f'images_dataframe: \n{images_dataframe}')
-    images_file_path = f'lang-{language}/images.csv'
-    print(f'images_file_path: {images_file_path}')
-    images_dataframe.to_csv(images_file_path, index=False)
+    # images_csv_url = f'http://{language.lower()}.elimu.ai/content/image/list/images.csv'
+    # print(f'images_csv_url: {images_csv_url}')
+    # images_dataframe = pandas.read_csv(images_csv_url)
+    # print(f'images_dataframe: \n{images_dataframe}')
+    # images_file_path = f'lang-{language}/images.csv'
+    # print(f'images_file_path: {images_file_path}')
+    # images_dataframe.to_csv(images_file_path, index=False)
 
     storybooks_csv_url = f'http://{language.lower()}.elimu.ai/content/storybook/list/storybooks.csv'
     print(f'storybooks_csv_url: {storybooks_csv_url}')
@@ -89,10 +89,10 @@ for language in languages:
     print(f'storybooks_file_path: {storybooks_file_path}')
     storybooks_dataframe.to_csv(storybooks_file_path, index=False)
 
-    videos_csv_url = f'http://{language.lower()}.elimu.ai/content/video/list/videos.csv'
-    print(f'videos_csv_url: {videos_csv_url}')
-    videos_dataframe = pandas.read_csv(videos_csv_url)
-    print(f'videos_dataframe: \n{videos_dataframe}')
-    videos_file_path = f'lang-{language}/videos.csv'
-    print(f'videos_file_path: {videos_file_path}')
-    videos_dataframe.to_csv(videos_file_path, index=False)
+    # videos_csv_url = f'http://{language.lower()}.elimu.ai/content/video/list/videos.csv'
+    # print(f'videos_csv_url: {videos_csv_url}')
+    # videos_dataframe = pandas.read_csv(videos_csv_url)
+    # print(f'videos_dataframe: \n{videos_dataframe}')
+    # videos_file_path = f'lang-{language}/videos.csv'
+    # print(f'videos_file_path: {videos_file_path}')
+    # videos_dataframe.to_csv(videos_file_path, index=False)
