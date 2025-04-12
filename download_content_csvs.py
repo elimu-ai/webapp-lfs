@@ -47,3 +47,11 @@ for language in languages:
     syllables_file_path = f'lang-{language}/syllables.csv'
     print(f'syllables_file_path: {syllables_file_path}')
     syllables_dataframe.to_csv(syllables_file_path, index=False)
+
+    words_csv_url = f'http://{language.lower()}.elimu.ai/content/word/list/words.csv'
+    print(f'words_csv_url: {words_csv_url}')
+    words_dataframe = pandas.read_csv(words_csv_url)
+    print(f'words_dataframe: \n{words_dataframe}')
+    words_file_path = f'lang-{language}/words.csv'
+    print(f'words_file_path: {words_file_path}')
+    words_dataframe.to_csv(words_file_path, index=False)
