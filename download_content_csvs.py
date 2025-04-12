@@ -79,3 +79,11 @@ for language in languages:
     # images_file_path = f'lang-{language}/images.csv'
     # print(f'images_file_path: {images_file_path}')
     # images_dataframe.to_csv(images_file_path, index=False)
+
+    storybooks_csv_url = f'http://{language.lower()}.elimu.ai/content/storybook/list/storybooks.csv'
+    print(f'storybooks_csv_url: {storybooks_csv_url}')
+    storybooks_dataframe = pandas.read_csv(storybooks_csv_url)
+    print(f'storybooks_dataframe: \n{storybooks_dataframe}')
+    storybooks_file_path = f'lang-{language}/storybooks.csv'
+    print(f'storybooks_file_path: {storybooks_file_path}')
+    storybooks_dataframe.to_csv(storybooks_file_path, index=False)
