@@ -1,0 +1,40 @@
+name: Download content CSVs (daily)
+
+on:
+  schedule:
+    - cron: 00 23 * * *
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Download content CSVs
+      run: |
+        python download_content_csvs.py
+
+    - name: Git Config
+      run: |
+        git config user.name 'Nya Ξlimu'
+        git config user.email 'info@elimu.ai'
+    - name: Git Commit
+      run: |
+        git add **/*.csv
+        git commit -m 'chore(csv): download content csvs' --allow-empty
+    - name: Git Push
+      run: |
+        git push
