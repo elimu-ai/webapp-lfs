@@ -55,3 +55,10 @@ for language in languages:
     words_file_path = f'lang-{language}/words.csv'
     print(f'words_file_path: {words_file_path}')
     words_dataframe.to_csv(words_file_path, index=False)
+
+    numbers_csv_url = f'http://{language.lower()}.elimu.ai/content/number/list/numbers.csv'
+    print(f'numbers_csv_url: {numbers_csv_url}')
+    numbers_dataframe = pandas.read_csv(numbers_csv_url)
+    print(f'numbers_dataframe: \n{numbers_dataframe}')
+    numbers_file_path = f'lang-{language}/numbers.csv'
+    print(f'numbers_file_path: {numbers_file_path}')
