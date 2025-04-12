@@ -71,3 +71,11 @@ for language in languages:
     emojis_file_path = f'lang-{language}/emojis.csv'
     print(f'emojis_file_path: {emojis_file_path}')
     emojis_dataframe.to_csv(emojis_file_path, index=False)
+
+    # images_csv_url = f'http://{language.lower()}.elimu.ai/content/image/list/images.csv'
+    # print(f'images_csv_url: {images_csv_url}')
+    # images_dataframe = pandas.read_csv(images_csv_url)
+    # print(f'images_dataframe: \n{images_dataframe}')
+    # images_file_path = f'lang-{language}/images.csv'
+    # print(f'images_file_path: {images_file_path}')
+    # images_dataframe.to_csv(images_file_path, index=False)
