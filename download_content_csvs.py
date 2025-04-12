@@ -39,3 +39,11 @@ for language in languages:
     letter_sounds_file_path = f'lang-{language}/letter-sounds.csv'
     print(f'letter_sounds_file_path: {letter_sounds_file_path}')
     letter_sounds_dataframe.to_csv(letter_sounds_file_path, index=False)
+
+    syllables_csv_url = f'http://{language.lower()}.elimu.ai/content/syllable/list/syllables.csv'
+    print(f'syllables_csv_url: {syllables_csv_url}')
+    syllables_dataframe = pandas.read_csv(syllables_csv_url)
+    print(f'syllables_dataframe: \n{syllables_dataframe}')
+    syllables_file_path = f'lang-{language}/syllables.csv'
+    print(f'syllables_file_path: {syllables_file_path}')
+    syllables_dataframe.to_csv(syllables_file_path, index=False)
