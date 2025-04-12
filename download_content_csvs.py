@@ -62,3 +62,4 @@ for language in languages:
     print(f'numbers_dataframe: \n{numbers_dataframe}')
     numbers_file_path = f'lang-{language}/numbers.csv'
     print(f'numbers_file_path: {numbers_file_path}')
+    numbers_dataframe.to_csv(numbers_file_path, index=False)
