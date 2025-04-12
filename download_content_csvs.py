@@ -5,7 +5,8 @@ import pandas
 languages = [
     'ENG',
     'HIN',
-    'TGL'
+    'TGL',
+    'THA'
 ]
 print(f'languages: {languages}')
 

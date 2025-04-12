@@ -1,0 +1,4 @@
+id,content_type,content_license,attribution_url,title,download_url,video_format
+1,video/mp4,BSD_2_CLAUSE,,test sample video,/video/1.mp4,MP4
+5,video/mp4,CREATIVE_COMMONS_CC_BY,,sample video 5 h264,/video/5.mp4,MP4
+7,video/mp4,CREATIVE_COMMONS_CC_BY,,sample video 7 - re-encodeed,/video/7.mp4,MP4
