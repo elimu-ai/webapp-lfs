@@ -23,3 +23,11 @@ for language in languages:
     letters_file_path = f'lang-{language}/letters.csv'
     print(f'letters_file_path: {letters_file_path}')
     letters_dataframe.to_csv(letters_file_path, index=False)
+
+    sounds_csv_url = f'http://{language.lower()}.elimu.ai/content/sound/list/sounds.csv'
+    print(f'sounds_csv_url: {sounds_csv_url}')
+    sounds_dataframe = pandas.read_csv(sounds_csv_url)
+    print(f'sounds_dataframe: \n{sounds_dataframe}')
+    sounds_file_path = f'lang-{language}/sounds.csv'
+    print(f'sounds_file_path: {sounds_file_path}')
+    sounds_dataframe.to_csv(sounds_file_path, index=False)
