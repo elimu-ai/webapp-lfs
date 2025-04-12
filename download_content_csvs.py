@@ -31,3 +31,11 @@ for language in languages:
     sounds_file_path = f'lang-{language}/sounds.csv'
     print(f'sounds_file_path: {sounds_file_path}')
     sounds_dataframe.to_csv(sounds_file_path, index=False)
+
+    letter_sounds_csv_url = f'http://{language.lower()}.elimu.ai/content/letter-sound/list/letter-sounds.csv'
+    print(f'letter_sounds_csv_url: {letter_sounds_csv_url}')
+    letter_sounds_dataframe = pandas.read_csv(letter_sounds_csv_url)
+    print(f'letter_sounds_dataframe: \n{letter_sounds_dataframe}')
+    letter_sounds_file_path = f'lang-{language}/letter-sounds.csv'
+    print(f'letter_sounds_file_path: {letter_sounds_file_path}')
+    letter_sounds_dataframe.to_csv(letter_sounds_file_path, index=False)
