@@ -89,10 +89,10 @@ for language in languages:
     print(f'storybooks_file_path: {storybooks_file_path}')
     storybooks_dataframe.to_csv(storybooks_file_path, index=False)
 
-    # videos_csv_url = f'http://{language.lower()}.elimu.ai/content/video/list/videos.csv'
-    # print(f'videos_csv_url: {videos_csv_url}')
-    # videos_dataframe = pandas.read_csv(videos_csv_url)
-    # print(f'videos_dataframe: \n{videos_dataframe}')
-    # videos_file_path = f'lang-{language}/videos.csv'
-    # print(f'videos_file_path: {videos_file_path}')
-    # videos_dataframe.to_csv(videos_file_path, index=False)
+    videos_csv_url = f'http://{language.lower()}.elimu.ai/content/video/list/videos.csv'
+    print(f'videos_csv_url: {videos_csv_url}')
+    videos_dataframe = pandas.read_csv(videos_csv_url)
+    print(f'videos_dataframe: \n{videos_dataframe}')
+    videos_file_path = f'lang-{language}/videos.csv'
+    print(f'videos_file_path: {videos_file_path}')
+    videos_dataframe.to_csv(videos_file_path, index=False)
