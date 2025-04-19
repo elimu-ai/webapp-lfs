@@ -1,4 +1,4 @@
-id,content_type,content_license,attribution_url,title,file_size,checksum_md5,cid,download_url,image_format
+id,content_type,content_license,attribution_url,title,file_size,checksum_md5,checksum_github,download_url,image_format
 1,image/jpg,,,storybook-1-cover,247151,f9a2a841eda468922f1fdc74cfedac26,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/1_r1.jpg,JPG
 2,image/jpg,,,storybook-1-ch-1,247071,ae29cfb5a29c0fb999193e118b98054a,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/2_r1.jpg,JPG
 3,image/jpg,,,storybook-1-ch-2,242914,6863b7ca7d4e7db4b0bb900b50b9195d,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/3_r1.jpg,JPG
@@ -780,3 +780,11 @@ id,content_type,content_license,attribution_url,title,file_size,checksum_md5,cid
 812,image/jpg,,,storybook-50-ch-10,435414,5aa3a1db84afd44371561cb1888931a8,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/812_r1.jpg,JPG
 813,image/jpg,,,storybook-50-ch-11,340076,5db6b44995ff464d5123ec1ca1325769,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/813_r1.jpg,JPG
 814,image/jpg,,,storybook-50-ch-12,466885,72f250301b0b3695a0afc627885a7ec0,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/814_r1.jpg,JPG
+815,image/png,,,Ang pagtulong sa Ibon_cover,476195,a4c5ad8349e298e620f6ae9649b46be4,4c017dc1489a59da3f65c378c617e585f7264913,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/a4c5ad8349e298e620f6ae9649b46be4.png,PNG
+816,image/jpg,,,Ang pagtulong sa Ibon_ch-2,345985,85c61d7e306a777b882edd2745ff6133,bc5a0e2581ef1c539609ef931b959c01743ebd0f,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/85c61d7e306a777b882edd2745ff6133.jpg,JPG
+817,image/jpg,,,Ang pagtulong sa Ibon_ch-3,370782,b564cc8b6d4d78008c666e8c57a37537,99c023da93b6e209ad334cf0cf9ce53aaf886313,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/b564cc8b6d4d78008c666e8c57a37537.jpg,JPG
+818,image/jpg,,,Ang pagtulong sa Ibon_ch-4,443367,9994e6ba403bbe03a19a1cc5cebeda7b,7039eaad70189e31cb190c19a9eeabbdbf79df09,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/9994e6ba403bbe03a19a1cc5cebeda7b.jpg,JPG
+819,image/jpg,,,Ang pagtulong sa Ibon_ch-5,332866,cc5a8b6f1a22673343a4ac8892d6ddd9,635b8c3f63914ffcc445699948b9181ba29cff49,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/cc5a8b6f1a22673343a4ac8892d6ddd9.jpg,JPG
+820,image/jpg,,,Ang pagtulong sa Ibon_ch-7,392575,a5af3b6384e4dcc3dad31a31009de620,75ffe449985f346920c50f7235666d9226635212,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/a5af3b6384e4dcc3dad31a31009de620.jpg,JPG
+821,image/jpg,,,Ang pagtulong sa Ibon_ch-8,374947,0f9ce3492d551ccabec35428a697e291,8894e2d84a36300d7884b28ba1f786c2f7ceb900,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/0f9ce3492d551ccabec35428a697e291.jpg,JPG
+822,image/jpg,,,Ang pagtulong sa Ibon_ch-10,1141848,ec94f36625680b7328f12f6eafa4d18c,07d101e651903c81f7832d4a1a553a18f902a19e,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-TGL/images/ec94f36625680b7328f12f6eafa4d18c.jpg,JPG

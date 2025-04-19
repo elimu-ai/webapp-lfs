@@ -1,4 +1,4 @@
-id,content_type,content_license,attribution_url,title,file_size,checksum_md5,cid,download_url,image_format
+id,content_type,content_license,attribution_url,title,file_size,checksum_md5,checksum_github,download_url,image_format
 1,image/jpg,,,storybook-1-cover,141702,bb6d57d048d5d6f104069f4beb633229,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-HIN/images/1_r2.jpg,JPG
 3,image/jpg,,,storybook-1-ch-2,124954,bd283167ef867f9c034fe67059954549,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-HIN/images/3_r2.jpg,JPG
 4,image/jpg,,,storybook-1-ch-3,135720,35bfd1a1dfe94068b0372d7ab6eedbb5,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-HIN/images/4_r1.jpg,JPG

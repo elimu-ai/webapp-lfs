@@ -1,4 +1,4 @@
-id,content_type,content_license,attribution_url,title,file_size,checksum_md5,cid,download_url,image_format
+id,content_type,content_license,attribution_url,title,file_size,checksum_md5,checksum_github,download_url,image_format
 1,image/gif,,,dinosaur,2028356,928394348bb4afdc6d115e63c459960b,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/1_r7.gif,GIF
 2,image/jpeg,CREATIVE_COMMONS_CC_BY,http://eng.elimu.ai,giraffs,558868,caa676a08895c6e1ce740e78df4d5d9d,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/2_r5.jpg,JPG
 3,image/gif,,,sheep,2718261,35390434c4825374bb01c214a6b6bd2e,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/3_r5.gif,GIF
@@ -379,3 +379,8 @@ id,content_type,content_license,attribution_url,title,file_size,checksum_md5,cid
 662,image/jpeg,,,a-tiny-seed_page15,124203,3937e8cade2516d5ed3d97fcadfa9bae,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/662_r2.jpg,JPG
 663,image/jpeg,,,a-tiny-seed_page16,349449,602695b2eee5ddb55073ae761c461464,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/663_r2.jpg,JPG
 664,image/jpeg,,,a-tiny-seed_page17,12108,aa5b12b41184a5f5ab447888e92ca767,,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/664_r2.jpg,JPG
+665,image/jpg,,,Swimming is Fun_cover,501039,14a67d26fd7c52026716a0f771b4a8bd,08962b9c208e698271eb9f12a0aedc2a4073a04f,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/14a67d26fd7c52026716a0f771b4a8bd.jpg,JPG
+666,image/jpg,,,Swimming is Fun_ch-13,124949,f3551700f13709df076ef5063b6548ae,1e8d2688823a428ce6858d3e663c4005a9b4f3c1,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/f3551700f13709df076ef5063b6548ae.jpg,JPG
+667,image/jpg,,,Swimming is Fun_ch-16,86822,73c1f10fc52434c913affe17d9febb3c,eb60cd1bb3c8e27bc101bb5222d556d791246a04,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/73c1f10fc52434c913affe17d9febb3c.jpg,JPG
+668,image/jpg,,,Swimming is Fun_ch-20,110192,e0bd655a3a1ce54122dd824194d8cf8e,f8a27f54fc3eedec2426de0748c663fd5bb9b2f5,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/e0bd655a3a1ce54122dd824194d8cf8e.jpg,JPG
+669,image/jpg,,,Swimming is Fun_ch-21,113635,9f4d971b4ce2d00cab4fd2db19c03305,9c9ee5df7c3a2032b4adebb3c8e151ed248e4679,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-ENG/images/9f4d971b4ce2d00cab4fd2db19c03305.jpg,JPG
