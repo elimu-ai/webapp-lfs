@@ -1,2 +1,3 @@
 id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 1,a,	a,False,VOWEL,0
+2,ɓ,b_<,False,CONSONANT,0
