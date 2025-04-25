@@ -1,2 +1,2 @@
 id,text,letter_sound_correspondences,usage_count,word_type,spelling_consistency,root_word_id,root_word_text
-1,ba,"[{""sounds"":[""ɓ"",""a""],""id"":1,""letters"":[""b"",""a""],""usageCount"":0}]",0,NUMBER,,,
+1,ba,"[{""sounds"":[""a""],""id"":1,""letters"":[""a""],""usageCount"":14}]",14,NUMBER,,,
