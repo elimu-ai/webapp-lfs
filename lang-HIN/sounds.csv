@@ -14,8 +14,8 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 13,j,j,False,CONSONANT,11422
 14,aː,a:,False,VOWEL,528055
 15,eː,e:,False,VOWEL,327227
-16,iː,i:,False,VOWEL,188249
-17,d,d,False,CONSONANT,14214
+16,iː,i:,False,VOWEL,191977
+17,d,d,False,CONSONANT,15232
 18,bʱ,b_h\,False,CONSONANT,4564
 19,tʰ,t_h,False,CONSONANT,3720
 20,oː,o:,False,VOWEL,46912
