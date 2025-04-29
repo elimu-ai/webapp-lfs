@@ -1,2 +1,4 @@
 id,letter_ids,letter_texts,sound_ids,sound_values_ipa,usage_count
 1,[1],"[""a""]",[1],"[""a""]",14
+2,"[16,11]","[""n"",""h""]",[3],"[""ɲ""]",40
+3,[31],"[""à""]",[1],"[""a""]",40

@@ -1,4 +1,4 @@
-id,content_type,content_license,attribution_url,title,checksum_md5,file_url,video_format
-1,video/mp4,BSD_2_CLAUSE,,test sample video,d9061d3da8601932e98f79ec8ba1c877,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-THA/videos/d9061d3da8601932e98f79ec8ba1c877.mp4,MP4
-5,video/mp4,CREATIVE_COMMONS_CC_BY,,sample video 5 h264,0675c58fd55725028828b058fb2c934a,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-THA/videos/0675c58fd55725028828b058fb2c934a.mp4,MP4
-7,video/mp4,CREATIVE_COMMONS_CC_BY,,sample video 7 - re-encodeed,35b4ccf59c7cc15cefd745528c734e81,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-THA/videos/35b4ccf59c7cc15cefd745528c734e81.mp4,MP4
+id,content_type,content_license,attribution_url,title,checksum_md5,file_url,file_size,video_format
+1,video/mp4,BSD_2_CLAUSE,,test sample video,d9061d3da8601932e98f79ec8ba1c877,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-THA/videos/d9061d3da8601932e98f79ec8ba1c877.mp4,1570024,MP4
+5,video/mp4,CREATIVE_COMMONS_CC_BY,,sample video 5 h264,0675c58fd55725028828b058fb2c934a,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-THA/videos/0675c58fd55725028828b058fb2c934a.mp4,5229245,MP4
+7,video/mp4,CREATIVE_COMMONS_CC_BY,,sample video 7 - re-encodeed,35b4ccf59c7cc15cefd745528c734e81,https://raw.githubusercontent.com/elimu-ai/webapp-lfs/main/lang-THA/videos/35b4ccf59c7cc15cefd745528c734e81.mp4,2361093,MP4
