@@ -41,3 +41,5 @@ id,text,diacritic,usage_count
 40,ช,False,300
 41,◌ะ,False,0
 42,อ,False,1338
+43,เ◌า,True,0
+44,แ◌ะ,True,0

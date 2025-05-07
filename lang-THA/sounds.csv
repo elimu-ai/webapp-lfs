@@ -31,3 +31,4 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 30,tɕʰ,ts\_h,False,CONSONANT,246
 31,u,u,False,VOWEL,28
 32,eː,e:,False,VOWEL,40
+33,ɛ,E,False,VOWEL,0
