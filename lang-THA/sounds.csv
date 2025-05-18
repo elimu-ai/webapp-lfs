@@ -35,3 +35,4 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 34,ɤː,7:,False,VOWEL,160
 35,ɯː,M:,False,VOWEL,34
 36,ɯ,M,False,VOWEL,1
+37,oː,o:,False,VOWEL,0
