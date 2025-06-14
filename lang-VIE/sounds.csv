@@ -1,6 +1,6 @@
 id,value_ipa,value_sampa,diacritic,sound_type,usage_count
-1,a,	a,False,VOWEL,86
+1,a,	a,False,VOWEL,90
 2,ɓ,b_<,False,CONSONANT,0
-3,ɲ,J,False,CONSONANT,65
-4,tɕ,ts\,False,CONSONANT,70
-5,ɔː,O:,False,VOWEL,70
+3,ɲ,J,False,CONSONANT,68
+4,tɕ,ts\,False,CONSONANT,72
+5,ɔː,O:,False,VOWEL,72
