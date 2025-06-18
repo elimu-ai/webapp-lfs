@@ -3,7 +3,7 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 2,p,p,False,CONSONANT,2296
 3,k,k,False,CONSONANT,19093
 4,ŋ,N,False,CONSONANT,13056
-5,d,d,False,CONSONANT,1467
+5,d,d,False,CONSONANT,1557
 6,t,t,False,CONSONANT,715
 7,n,n,False,CONSONANT,22922
 8,f,f,False,CONSONANT,23
@@ -11,7 +11,7 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 10,aː,a:,False,VOWEL,30503
 11,y,y,False,CONSONANT,1310
 12,ɔ,O,False,VOWEL,20
-13,iː,i:,False,VOWEL,1248
+13,iː,i:,False,VOWEL,1318
 14,uː,u:,False,VOWEL,1458
 15,h,h,False,CONSONANT,208
 16,w,w,False,CONSONANT,2821
