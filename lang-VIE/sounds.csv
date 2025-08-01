@@ -4,3 +4,16 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 3,ɲ,J,False,CONSONANT,131
 4,tɕ,ts\,False,CONSONANT,132
 5,ɔː,O:,False,VOWEL,132
+6,k,k,False,CONSONANT,0
+7,n,n,False,CONSONANT,0
+8,z,z,False,CONSONANT,0
+9,x,x,False,CONSONANT,0
+10,i,i,False,VOWEL,0
+11,t,t,False,CONSONANT,0
+12,j,j,False,CONSONANT,0
+13,h,h,False,CONSONANT,0
+14,b,b,False,CONSONANT,0
+15,w,w,False,CONSONANT,0
+16,m,m,False,CONSONANT,0
+17,s,s,False,CONSONANT,0
+18,ɛ,E,False,VOWEL,0
