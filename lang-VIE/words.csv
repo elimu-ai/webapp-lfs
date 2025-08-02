@@ -1,5 +1,5 @@
 id,text,letter_sound_correspondences,usage_count,word_type,spelling_consistency,root_word_id,root_word_text
-1,ba,"[{""sounds"":[""ɓ""],""id"":15,""letters"":[""b""],""usageCount"":0},{""sounds"":[""a""],""id"":1,""letters"":[""a""],""usageCount"":47}]",47,NUMBER,,,
+1,ba,"[{""sounds"":[""ɓ""],""id"":15,""letters"":[""b""],""usageCount"":47},{""sounds"":[""a""],""id"":1,""letters"":[""a""],""usageCount"":47}]",47,NUMBER,,,
 2,nhà,"[{""sounds"":[""ɲ""],""id"":2,""letters"":[""n"",""h""],""usageCount"":131},{""sounds"":[""a""],""id"":3,""letters"":[""à""],""usageCount"":131}]",131,NOUN,,2.0,nhà
 3,cho,"[{""sounds"":[""tɕ""],""id"":4,""letters"":[""c"",""h""],""usageCount"":132},{""sounds"":[""ɔː""],""id"":5,""letters"":[""o""],""usageCount"":132}]",132,VERB,,,
 4,con,"[{""sounds"":[""k""],""id"":6,""letters"":[""c""],""usageCount"":0},{""sounds"":[""ɔː""],""id"":5,""letters"":[""o""],""usageCount"":132},{""sounds"":[""n""],""id"":7,""letters"":[""n""],""usageCount"":0}]",0,NOUN,,,
