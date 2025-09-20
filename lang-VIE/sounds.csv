@@ -17,3 +17,7 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 16,m,m,False,CONSONANT,147
 17,s,s,False,CONSONANT,151
 18,ɛ,E,False,VOWEL,72
+19,v,v,False,CONSONANT,0
+20,∅,_0,False,,0
+21,o,o,False,VOWEL,0
+22,l,l,False,CONSONANT,0

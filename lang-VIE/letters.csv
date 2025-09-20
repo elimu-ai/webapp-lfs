@@ -1,13 +1,13 @@
 id,text,diacritic,usage_count
 1,a,False,628
-2,ă,True,0
-3,â,True,0
+2,ă,False,0
+3,â,False,0
 4,b,False,137
 5,c,False,408
 6,d,False,0
 7,đ,False,0
 8,e,False,72
-9,ê,True,0
+9,ê,False,0
 10,g,False,0
 11,h,False,510
 12,i,False,252
@@ -30,3 +30,8 @@ id,text,diacritic,usage_count
 29,y,False,82
 30,á,True,0
 31,à,False,128
+32,◌́,True,0
+33,◌̀,True,0
+34,◌̉,True,0
+35,◌̃,True,0
+36,◌̣,True,0
