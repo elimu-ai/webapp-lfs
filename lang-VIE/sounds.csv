@@ -1,19 +1,26 @@
 id,value_ipa,value_sampa,diacritic,sound_type,usage_count
-1,a,	a,False,VOWEL,756
-2,ɓ,b_<,False,CONSONANT,137
+1,a,	a,False,VOWEL,1913
+2,ɓ,b_<,False,CONSONANT,335
 3,ɲ,J,False,CONSONANT,202
 4,tɕ,ts\,False,CONSONANT,131
 5,ɔː,O:,False,VOWEL,408
-6,k,k,False,CONSONANT,277
-7,n,n,False,CONSONANT,277
+6,k,k,False,CONSONANT,829
+7,n,n,False,CONSONANT,475
 8,z,z,False,CONSONANT,159
 9,x,x,False,CONSONANT,88
-10,i,i,False,VOWEL,163
+10,i,i,False,VOWEL,369
 11,t,t,False,CONSONANT,92
 12,j,j,False,CONSONANT,171
 13,h,h,False,CONSONANT,89
 14,b,b,False,CONSONANT,0
 15,w,w,False,CONSONANT,152
 16,m,m,False,CONSONANT,147
-17,s,s,False,CONSONANT,151
-18,ɛ,E,False,VOWEL,72
+17,s,s,False,CONSONANT,296
+18,ɛ,E,False,VOWEL,217
+19,v,v,False,CONSONANT,395
+20,∅,_0,False,,1617
+21,o,o,False,VOWEL,0
+22,l,l,False,CONSONANT,327
+23,ɔ,O,False,VOWEL,315
+24,u,u,False,VOWEL,237
+25,ɗ,d_<,False,CONSONANT,206
