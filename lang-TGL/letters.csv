@@ -3,8 +3,8 @@ id,text,diacritic,usage_count
 2,n,False,16749
 3,i,False,8894
 4,g,False,11619
-5,s,False,5682
-6,t,False,4322
+5,s,False,5688
+6,t,False,4328
 7,o,False,3822
 8,l,False,2873
 9,k,False,3690
@@ -17,7 +17,7 @@ id,text,diacritic,usage_count
 16,h,False,1106
 17,d,False,1160
 18,A,False,0
-19,e,False,446
+19,e,False,452
 20,w,False,732
 21,P,False,0
 22,N,False,0
@@ -53,4 +53,4 @@ id,text,diacritic,usage_count
 52,z,False,0
 53,Ñ,False,0
 54,ñ,False,0
-55,-,True,5
+55,-,True,9
