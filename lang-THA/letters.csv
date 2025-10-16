@@ -14,14 +14,14 @@ id,text,diacritic,usage_count
 13,◌า,False,0
 14,ย,False,1348
 15,◌ี,False,1753
-16,◌ู,False,930
+16,◌ู,False,1004
 17,ห,False,1414
 18,ว,False,2225
 19,แ,False,1283
 20,พ,False,630
 21,ล,False,1804
 22,◌ิ,False,330
-23,ร,False,1161
+23,ร,False,1235
 24,ท,False,1096
 25,ธ,False,392
 26,ผ,False,50
@@ -72,7 +72,7 @@ id,text,diacritic,usage_count
 71, ๋,True,0
 72, ็,True,423
 73,◌่,True,2888
-74,◌้,True,2612
+74,◌้,True,2686
 75,◌๊,True,0
 76,◌๋,True,0
 77,◌,True,7956
