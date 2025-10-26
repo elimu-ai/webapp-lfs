@@ -3,8 +3,8 @@ id,text,diacritic,usage_count
 2,ข,False,938
 3,ค,False,788
 4,ง,False,2338
-5,จ,False,1204
-6,ด,False,1704
+5,จ,False,1208
+6,ด,False,1708
 7,บ,False,1114
 8,น,False,5257
 9,ป,False,1044
@@ -13,9 +13,9 @@ id,text,diacritic,usage_count
 12,ม,False,2674
 13,◌า,False,0
 14,ย,False,1348
-15,◌ี,False,1753
+15,◌ี,False,1766
 16,◌ู,False,1004
-17,ห,False,1414
+17,ห,False,1423
 18,ว,False,2225
 19,แ,False,1283
 20,พ,False,630
@@ -26,7 +26,7 @@ id,text,diacritic,usage_count
 25,ธ,False,392
 26,ผ,False,50
 27,◌อ,False,0
-28,ส,False,666
+28,ส,False,679
 29,่,True,289
 30,◌ั,False,2547
 31,ศ,False,8
@@ -59,20 +59,20 @@ id,text,diacritic,usage_count
 58,◌ื,False,387
 59,◌ัว,False,0
 60,อะ,False,0
-61,เ,False,1881
-62,า,False,3503
+61,เ,False,1885
+62,า,False,3512
 63,ํ,False,210
 64,โ,False,151
 65,ี,False,98
 66,ใ◌◌,False,417
 67,เ◌◌,False,0
-68,◌็,True,594
+68,◌็,True,598
 69,้,True,384
 70, ๊,True,0
 71, ๋,True,0
 72, ็,True,423
-73,◌่,True,2888
-74,◌้,True,2686
+73,◌่,True,2901
+74,◌้,True,2695
 75,◌๊,True,0
 76,◌๋,True,0
 77,◌,True,7956
