@@ -26,3 +26,4 @@ id,value_ipa,value_sampa,diacritic,sound_type,usage_count
 25,ɗ,d_<,False,CONSONANT,348
 26,ə,@,False,VOWEL,295
 27,ŋ,N,False,CONSONANT,369
+28,tʰ,t_h,False,CONSONANT,0
