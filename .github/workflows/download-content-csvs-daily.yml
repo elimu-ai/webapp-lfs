@@ -55,7 +55,7 @@ jobs:
         git push
 
     - name: Discord Notification on Failure
-      if: failure()
+      if: failure() && github.ref_name == 'main' # Only notify if `main` branch fails
       run: |
         curl -H "Content-Type: application/json" \
              -X POST \
