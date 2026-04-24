@@ -53,3 +53,11 @@ jobs:
     - name: Git Push
       run: |
         git push
+
+    - name: Discord Notification on Failure
+      if: failure()
+      run: |
+        curl -H "Content-Type: application/json" \
+             -X POST \
+             -d "{\"content\": \"❌ **Workflow Failed**\nJob: ${{ github.job }}\nWorkflow: ${{ github.workflow }}\nBranch: ${{ github.ref_name }}\nRun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\n<@&1466158362453348649>\"}" \
+             ${{ secrets.DISCORD_WEBHOOK_URL }}
