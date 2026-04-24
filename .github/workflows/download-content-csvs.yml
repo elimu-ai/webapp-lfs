@@ -43,5 +43,5 @@ jobs:
       run: |
         curl -H "Content-Type: application/json" \
              -X POST \
-             -d "{\"content\": \"❌ **webapp-lfs CSV Download Failed**\nJob: ${{ github.job }}\nWorkflow: ${{ github.workflow }}\nBranch: ${{ github.ref_name }}\nRun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" \
+             -d "{\"content\": \"❌ **Workflow Failed**\nJob: ${{ github.job }}\nWorkflow: ${{ github.workflow }}\nBranch: `${{ github.ref_name }}`\nRun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\n<@&1466158362453348649>\"}" \
              ${{ secrets.DISCORD_WEBHOOK_URL }}
