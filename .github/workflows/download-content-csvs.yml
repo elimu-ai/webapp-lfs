@@ -1,6 +1,8 @@
 name: Download content CSVs
 
 on:
+  push:
+    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
