@@ -1,12 +1,12 @@
 id,text,diacritic,usage_count
-1,a,False,365
+1,a,False,383
 2,b,False,71
 3,c,False,22
 4,d,False,139
 5,e,False,498
 6,f,False,65
 7,g,False,19
-8,h,False,3034
+8,h,False,2908
 9,i,False,272
 10,j,False,0
 11,k,False,3
@@ -18,10 +18,10 @@ id,text,diacritic,usage_count
 17,q,False,0
 18,r,False,117
 19,s,False,214
-20,t,False,3227
+20,t,False,3101
 21,u,False,82
 22,v,False,14
-23,w,False,88
+23,w,False,106
 24,x,False,0
 25,y,False,92
 26,z,False,0
